@@ -1,2 +1,4 @@
-# gist
-Collection of code gist
+# Code Snippets
+收集好代码！
+
+## bash
